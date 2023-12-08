@@ -1,0 +1,4 @@
+{
+    "class_mappings" : "class_mapper.txt",
+    "model_weights"  : "model_best.pth.tar"
+}
