@@ -1,4 +1,4 @@
-**Socket Programming and Multiprocessing**
+# **Gesture Recognition with Socket Programming and Multiprocessing**
 
 
 **Overview**
